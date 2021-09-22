@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below _list_ of my **nothing list**:
+
+## Mobile use
+- Insta
+- Fb
+- Whatsapp
+
+## Holiday List
+- Saturday
+- sunday
+- And Other Holiday
